@@ -1,0 +1,85 @@
+﻿@model IEnumerable<BBMS.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!--<h1>Index</h1>-->
+ @if (ViewBag.Username == "receiver")
+                {
+                    <h3 style="color: blue">Logged as Receiver</h3>
+                    <p>
+                        <a asp-action="Create">Create New</a>
+                    </p>
+                }
+@if (ViewBag.Username == "staff" || ViewBag.Username == "admin")
+                {
+                    <h3 style="color: blue">Logged as @ViewBag.Username</h3>
+                }
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReceiverName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocationAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BloodBroup)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReceiverName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocationAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BloodBroup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderStatus)
+            </td>
+                @if (ViewBag.Username == "staff" || ViewBag.Username == "admin")
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Orderid">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Orderid">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Orderid">Delete</a>
+                    </td>
+                }
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Logout">Logout</a>
+</div>

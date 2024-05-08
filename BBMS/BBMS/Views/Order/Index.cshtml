@@ -1,0 +1,45 @@
+@model Order
+
+@using (Html.BeginForm("SubmitData", "Order", FormMethod.Post))
+{
+<table>
+    <tr>
+        <th><h2>Order</h2></th>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.ReceiverName)</td>
+        <td>@Html.TextBoxFor(model => model.ReceiverName)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.Age)</td>
+        <td>@Html.TextBoxFor(model => model.Age, new { @type = "number", @min = "1", @Value="1" })</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.LocationAddress)</td>
+        <td>@Html.TextBoxFor(model => model.LocationAddress)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.BloodBroup)</td>
+        <td>@Html.DropDownListFor(model => model.BloodBroup, new SelectList(ViewBag.BloodGroupList, "Value", "Text"))</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.Quantity)</td>
+        <td>@Html.TextBoxFor(model => model.Quantity, new { @type = "number", @min = "1", @Value = "1" })</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.OrderDateTime)</td>
+        <td>@Html.TextBoxFor(model => model.OrderDateTime)</td>
+    </tr>
+    <tr>
+        <td><input type="submit" value="Place Order" /></td>
+    </tr>
+</table>
+
+
+}
+
+@if (TempData["SavedMessage"] != null)
+{
+    <p>@TempData["SavedMessage"]</p>
+}
+

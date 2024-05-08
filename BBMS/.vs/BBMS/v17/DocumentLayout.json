@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\data\\bbmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\data\\bbmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\controllers\\orderscontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\controllers\\orderscontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\dbctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\dbctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\orderscontroller2\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\orderscontroller2\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\orderscontroller2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\orderscontroller2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\orderscontroller2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\orderscontroller2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\bbms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\bbms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|c:\\users\\romila tuscano\\onedrive\\desktop\\bbms\\bbms\\views\\login\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B67A607-E63A-4AE4-A740-F6C39873DE09}|BBMS\\BBMS.csproj|solutionrelative:bbms\\views\\login\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\appsettings.json",
+              "RelativeDocumentMoniker": "BBMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\appsettings.json",
+              "RelativeToolTip": "BBMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T09:10:50.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:31:23.044Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController2.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\OrdersController2.cs",
+              "RelativeDocumentMoniker": "BBMS\\Controllers\\OrdersController2.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\OrdersController2.cs",
+              "RelativeToolTip": "BBMS\\Controllers\\OrdersController2.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowEQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:01:18.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BBMS\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BBMS\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:39:06.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Index.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\OrdersController2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Index.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\OrdersController2\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:08:03.714Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BBMS\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BBMS\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:49:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\web.config",
+              "RelativeDocumentMoniker": "BBMS\\web.config",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\web.config",
+              "RelativeToolTip": "BBMS\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T16:33:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BBMS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BBMS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T16:31:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BBMS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\User.cs",
+              "RelativeToolTip": "BBMS\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:43:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "BBMS\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\Orders.cs",
+              "RelativeToolTip": "BBMS\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:55:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BBMS\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\Order.cs",
+              "RelativeToolTip": "BBMS\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:43:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BBMS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BBMS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:46:10.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BBMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Data\\BBMSContext.cs",
+              "RelativeDocumentMoniker": "BBMS\\Data\\BBMSContext.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Data\\BBMSContext.cs",
+              "RelativeToolTip": "BBMS\\Data\\BBMSContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:10:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BBMS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BBMS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:37:50.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Program.cs",
+              "RelativeDocumentMoniker": "BBMS\\Program.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Program.cs",
+              "RelativeToolTip": "BBMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:12:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBCtx.cs",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\DBCtx.cs",
+              "RelativeDocumentMoniker": "BBMS\\DBCtx.cs",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\DBCtx.cs",
+              "RelativeToolTip": "BBMS\\DBCtx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:07:13.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BBMS.csproj",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\BBMS.csproj",
+              "RelativeDocumentMoniker": "BBMS\\BBMS.csproj",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\BBMS.csproj",
+              "RelativeToolTip": "BBMS\\BBMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T15:58:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:46:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Details.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\OrdersController2\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Details.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\OrdersController2\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:12:15.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Create.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\OrdersController2\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\OrdersController2\\Create.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\OrdersController2\\Create.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:07:55.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:03:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Login\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "BBMS\\Views\\Login\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\ROMILA TUSCANO\\OneDrive\\Desktop\\BBMS\\BBMS\\Views\\Login\\Welcome.cshtml",
+              "RelativeToolTip": "BBMS\\Views\\Login\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:46:47.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

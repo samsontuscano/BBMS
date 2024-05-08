@@ -1,0 +1,28 @@
+@model User
+
+
+
+@using (Html.BeginForm("Authenticate", "Login", FormMethod.Post))
+{
+<table>
+    <tr>
+        <th><h2>Login</h2></th>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.Username)</td>
+        <td>@Html.TextBoxFor(model => model.Username)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.Password)</td>
+        <td>@Html.PasswordFor(model => model.Password)</td>
+    </tr>
+    <tr>
+        <td><input type="submit" value="Login" /></td>
+    </tr>
+</table>
+}
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}
